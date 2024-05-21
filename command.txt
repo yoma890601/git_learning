@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+git init 
+
+git config --global user.name "yoma890601"
+=======
+git init 
+
+git config --global user.name "yoma890601"
+>>>>>>> 983cc6d7c8f3e25a1b870bb140f373f916c2a20f
+git config --global user.email brutal890601@gmail.com
