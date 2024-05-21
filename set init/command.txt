@@ -1,0 +1,4 @@
+git init 
+
+git config --global user.name "yoma890601"
+git config --global user.email brutal890601@gmail.com
