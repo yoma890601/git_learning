@@ -21,3 +21,5 @@ git checkout -b branch ; git branch main 建立分支
 
 切換分支會讓資料夾更改 !!
 
+git push 計畫 --delete 分支  本地端刪除 遠端分支
+git remote add 名稱 https://github.com/yoma890601/test.git 新增遠端test計畫 為 名稱
