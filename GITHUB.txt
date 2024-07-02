@@ -12,7 +12,10 @@ git push -u origin main
 
 git remote test
 
-
+更新 :
+git add . 
+git commit -m "內容"
+git push project main 
 指定
 
 git checkout branch 切換分支
@@ -23,3 +26,7 @@ git checkout -b branch ; git branch main 建立分支
 
 git push 計畫 --delete 分支  本地端刪除 遠端分支
 git remote add 名稱 https://github.com/yoma890601/test.git 新增遠端test計畫 為 名稱
+
+
+git log --oneline -5 //顯示前五次的版本  out >> 2c29d55
+git reset 2c29d55 // 回到版本 2c29d55
